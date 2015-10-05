@@ -1,36 +1,7 @@
-# project_topdown
+# TMX Walls
 
-FIXME: description
+Reads a *.tmx object layer and creates Box2D bodies.
 
-## Installation
+# Licensing
 
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar project_topdown-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+The code in this project is available under the zlib license.
